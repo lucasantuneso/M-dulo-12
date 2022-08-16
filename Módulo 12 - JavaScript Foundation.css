@@ -1,0 +1,26 @@
+input, button{
+    display:block;
+    margin:10px;
+  }
+  section{
+      background:#000;
+    }
+     h1 {
+            color: #fff;
+  
+      font-size: 25px;
+  
+     }
+     
+     h2,h3,p,ul{
+       color: #fff;
+       font-size: 20px;
+     }
+     .form-group{
+          color: #fff;
+       
+     }
+     
+     
+     
+     
